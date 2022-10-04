@@ -1,0 +1,1 @@
+console.log("Esta práctica es con Git.js");
